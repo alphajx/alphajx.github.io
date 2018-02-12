@@ -1,9 +1,6 @@
-# HuxBlog Boilerplate
+# Blog Template
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+[GitPage View](https://alphajx.github.io/)
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io).
+##### [View huxblog-boilerplate](http://huangxuan.me/huxblog-boilerplate/), [huxblog-boilerplate/README.zh &rarr;](https://github.com/Huxpro/huxblog-boilerplate/blob/master/README.zh.md).
