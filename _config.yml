@@ -69,7 +69,7 @@ ga_domain: https://alphajx.github.io/
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我的小站：博客 笔记 日记。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-alphajx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
