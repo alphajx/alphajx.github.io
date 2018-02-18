@@ -99,6 +99,7 @@ layout: default
                 {% endif %}
 
                 <!-- Short About -->
+                {% if page.short-about %}
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
                     <div class="short-about">
@@ -183,6 +184,7 @@ layout: default
                         </ul>
                     </div>
                 </section>
+                {% endif %}
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
