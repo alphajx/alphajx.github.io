@@ -1,19 +1,46 @@
->The Sonnets
+>Boulevard Of Broken Dreams
 
-Let me not to the marriage of true minds  
-Admit impediments. Love is not love  
-Which alters when it alteration finds,  
-Or bends with the remover to remove:  
+I walk a lonely road  
+The only one that I have ever known  
+Don't know where it goes  
+But it's home to me and I walk alone  
+I walk this empty street  
+On the Boulevard of broken dreams  
+Where the city sleeps  
+And I'm the only one and I walk alone  
+I walk alone, I walk alone  
+I walk alone, I walk a.....  
+My shadow's only one that walks beside me  
+My shallow heart's the only thing that's beating  
+Sometimes I wish someone out there will find me  
+Till then I walk alone  
 
-O, no! it is an ever-fix`ed mark,  
-That looks on tempests and is never shaken;  
-It is the star to every wand'ring bark,  
-Whose worth's unknown, although his heighth be taken.  
+Ah-ah  
 
-Love's not Time's fool, though rosy lips and cheeks  
-Within his bending sickle's compass come;  
-Love alters not with his brief hours and weeks,  
-But bears it out even to the edge of doom:  
+I'm walking down the line  
+That divides me somewhere in my mind  
+On the border line of the edge  
+And where I walk alone  
+Read between the lines  
+What's fucked up and everything's all right  
+Check my vital signs to know I'm still alive  
+And I walk alone  
+I walk alone, I walk alone  
+I walk alone, I walk a...  
+My shadow's only one that walks beside me  
+My shallow heart's the only thing that's beating  
+Sometimes I wish someone out there will find me  
+Till then I walk alone  
 
-If this be error and upon me proved,  
-I never writ, nor no man ever loved.   
+Ah-ah  
+I walk alone, I walk a  
+
+I walk this empty street  
+On the Boulevard of broken dreams  
+Where the city sleeps  
+And I'm the only one and I walk a  
+
+My shadow's only one that walks beside me  
+My shallow heart's the only thing that's beating  
+Sometimes I wish someone out there will find me  
+Till then I walk alone  
